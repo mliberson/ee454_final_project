@@ -1,3 +1,6 @@
+# don't upload raw data because unnecessarily large
+*.csv
+
 __pycache__
 *.py[cod]
 *$py.class
